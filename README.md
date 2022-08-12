@@ -2,6 +2,12 @@
 
 Commands to run geant4 simulation code
 
+-------###### To download MPD directory ####------
+
+
+wget https://github.com/Silas-SJ/Geant4_Simulation_Silas.git
+
+
 -------###### To compilate ####------
 
 Inside MPD directory:
